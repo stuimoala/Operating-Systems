@@ -1,0 +1,2 @@
+A key function of any operating system is its management of files. An operating system will have these organized into directories.
+The operating system keeps track of where files are stored, status of these files and levels of user(s) access.
