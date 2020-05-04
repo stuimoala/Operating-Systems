@@ -1,2 +1,6 @@
-A key function of any operating system is its management of files. An operating system will have these organized into directories.
+A key function of any operating system is its management of files. 
+An operating system will have these organized into directories.
 The operating system keeps track of where files are stored, status of these files and levels of user(s) access.
+Another function of an operating system is that it monitors the health of the system. 
+This is done in order to improve performance.
+This function also provides important information that is used to troubleshoot issues.
